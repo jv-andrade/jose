@@ -1,0 +1,22 @@
+#contener{
+/* From https://css.glass */
+background: rgba(138, 164, 158, 0.31);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.1px);
+-webkit-backdrop-filter: blur(9.1px);
+border: 1px solid rgba(138, 164, 158, 0.3);
+}
+body{
+    background-image: linear-gradient(to top, #002760, #00224b, #001c35, #041420, #050709);
+}
+
+#text_principal{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    text-align:center;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+
+    
+}
